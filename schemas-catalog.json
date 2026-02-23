@@ -17,14 +17,14 @@
       "fixed": false
     },
     {
-      "code": "FARE_REVISITA",
+      "code": "COLTIVARE_INTERESSE",
       "label": "Coltivare l'interesse",
       "peopleCount": 2,
       "sexRule": "LIBERO",
       "fixed": false
     },
     {
-      "code": "STUDIO_BIBLICO",
+      "code": "FARE_DISCEPOLI",
       "label": "Fare discepoli",
       "peopleCount": 2,
       "sexRule": "LIBERO",
@@ -51,8 +51,8 @@
       "parts": [
         { "partTypeCode": "LETTURA_BIBLICA" },
         { "partTypeCode": "INIZIARE_CONVERSAZIONE" },
-        { "partTypeCode": "FARE_REVISITA" },
-        { "partTypeCode": "STUDIO_BIBLICO" },
+        { "partTypeCode": "COLTIVARE_INTERESSE" },
+        { "partTypeCode": "FARE_DISCEPOLI" },
         { "partTypeCode": "SPIEGARE_CIO_CHE_SI_CREDE" },
         { "partTypeCode": "DISCORSO" }
       ]
