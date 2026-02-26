@@ -1,14 +1,7 @@
 {
-  "version": "2026-02-23",
-  "updated_at": "2026-02-23T00:00:00Z",
+  "version": "2026-02-26",
+  "updated_at": "2026-02-26T22:00:59.111546703Z",
   "partTypes": [
-    {
-      "code": "LETTURA_BIBLICA",
-      "label": "Lettura biblica",
-      "peopleCount": 1,
-      "sexRule": "UOMO",
-      "fixed": true
-    },
     {
       "code": "INIZIARE_CONVERSAZIONE",
       "label": "Iniziare una conversazione",
@@ -47,14 +40,256 @@
   ],
   "weeks": [
     {
-      "weekStartDate": "2026-02-16",
+      "weekStartDate": "2026-02-23",
       "parts": [
-        { "partTypeCode": "LETTURA_BIBLICA" },
-        { "partTypeCode": "INIZIARE_CONVERSAZIONE" },
-        { "partTypeCode": "COLTIVARE_INTERESSE" },
-        { "partTypeCode": "FARE_DISCEPOLI" },
-        { "partTypeCode": "SPIEGARE_CIO_CHE_SI_CREDE" },
-        { "partTypeCode": "DISCORSO" }
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "COLTIVARE_INTERESSE"
+        },
+        {
+          "partTypeCode": "FARE_DISCEPOLI"
+        }
+      ]
+    },
+    {
+      "weekStartDate": "2026-03-02",
+      "parts": [
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "SPIEGARE_CIO_CHE_SI_CREDE"
+        }
+      ]
+    },
+    {
+      "weekStartDate": "2026-03-09",
+      "parts": [
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "COLTIVARE_INTERESSE"
+        }
+      ]
+    },
+    {
+      "weekStartDate": "2026-03-16",
+      "parts": [
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "COLTIVARE_INTERESSE"
+        },
+        {
+          "partTypeCode": "FARE_DISCEPOLI"
+        }
+      ]
+    },
+    {
+      "weekStartDate": "2026-03-23",
+      "parts": [
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "COLTIVARE_INTERESSE"
+        },
+        {
+          "partTypeCode": "COLTIVARE_INTERESSE"
+        }
+      ]
+    },
+    {
+      "weekStartDate": "2026-04-06",
+      "parts": [
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "COLTIVARE_INTERESSE"
+        },
+        {
+          "partTypeCode": "SPIEGARE_CIO_CHE_SI_CREDE"
+        }
+      ]
+    },
+    {
+      "weekStartDate": "2026-04-13",
+      "parts": [
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "COLTIVARE_INTERESSE"
+        }
+      ]
+    },
+    {
+      "weekStartDate": "2026-04-20",
+      "parts": [
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "COLTIVARE_INTERESSE"
+        },
+        {
+          "partTypeCode": "DISCORSO"
+        }
+      ]
+    },
+    {
+      "weekStartDate": "2026-04-27",
+      "parts": [
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "SPIEGARE_CIO_CHE_SI_CREDE"
+        },
+        {
+          "partTypeCode": "FARE_DISCEPOLI"
+        }
+      ]
+    },
+    {
+      "weekStartDate": "2026-05-04",
+      "parts": [
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "DISCORSO"
+        }
+      ]
+    },
+    {
+      "weekStartDate": "2026-05-11",
+      "parts": [
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "COLTIVARE_INTERESSE"
+        },
+        {
+          "partTypeCode": "FARE_DISCEPOLI"
+        }
+      ]
+    },
+    {
+      "weekStartDate": "2026-05-18",
+      "parts": [
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "COLTIVARE_INTERESSE"
+        },
+        {
+          "partTypeCode": "FARE_DISCEPOLI"
+        }
+      ]
+    },
+    {
+      "weekStartDate": "2026-05-25",
+      "parts": [
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "SPIEGARE_CIO_CHE_SI_CREDE"
+        }
+      ]
+    },
+    {
+      "weekStartDate": "2026-06-01",
+      "parts": [
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "COLTIVARE_INTERESSE"
+        },
+        {
+          "partTypeCode": "FARE_DISCEPOLI"
+        }
+      ]
+    },
+    {
+      "weekStartDate": "2026-06-08",
+      "parts": [
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "COLTIVARE_INTERESSE"
+        },
+        {
+          "partTypeCode": "SPIEGARE_CIO_CHE_SI_CREDE"
+        }
+      ]
+    },
+    {
+      "weekStartDate": "2026-06-22",
+      "parts": [
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "COLTIVARE_INTERESSE"
+        }
+      ]
+    },
+    {
+      "weekStartDate": "2026-06-29",
+      "parts": [
+        {
+          "partTypeCode": "INIZIARE_CONVERSAZIONE"
+        },
+        {
+          "partTypeCode": "COLTIVARE_INTERESSE"
+        },
+        {
+          "partTypeCode": "DISCORSO"
+        }
       ]
     }
   ]
